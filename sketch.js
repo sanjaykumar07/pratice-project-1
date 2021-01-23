@@ -4,7 +4,6 @@ const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 
 function preload(){
-  sound1 = loadSound("sound1.wav")
     
 }
 
